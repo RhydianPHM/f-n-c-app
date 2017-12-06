@@ -1,5 +1,5 @@
 .title-h {
-	font-size: 6rem;
+	font-size: 3rem;
 	font-weight: 300;
 
 }
@@ -56,10 +56,7 @@ nav ul li a:hover {
 	text-transform: uppercase;
 }
 
-.main-title span {
-	padding: 0.5rem;
-	background-color: #f1c40f;
-}
+
 
 .container {
 	display: flex;
