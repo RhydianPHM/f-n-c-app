@@ -1,2 +1,4 @@
 # f-n-c-app
-Founders and Coders course application
+Web Page for Founders and Coders course application
+
+https://rhydianphm.github.io/f-n-c-app/
