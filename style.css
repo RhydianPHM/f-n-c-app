@@ -61,7 +61,7 @@ nav ul li a {
 	background: #ed670e;
 }
 
-.linkIcon {
+.linkIcons {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
