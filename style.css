@@ -136,14 +136,6 @@ nav ul li a:hover {
 	justify-content: center;
 }
 
-.about-p, .projects-p {
-	color: #fff;
-	padding: 2vh;
-	font-family: 'Raleway',sans-serif;
-	font-size: 18px;
-	
-}
-
 .w-link {
 	color: #f1c40f;
 }
