@@ -4,6 +4,12 @@
 
 }
 
+.title-h span {
+	background-color:#f1c40f;
+	padding: 1rem;
+	color: #000;
+}
+
 body {
 	box-sizing: border-box;
 }
