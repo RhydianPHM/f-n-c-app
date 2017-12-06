@@ -8,7 +8,11 @@ body {
 	box-sizing: border-box;
 }
 
-
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
 
 
 a {
@@ -98,24 +102,6 @@ nav ul li a {
 	text-transform: uppercase;
 	justify-content: center;
 	align-items: center;
-}
-
-.post {
-	display: flex;
-	flex-direction: row;
-	width: 200px;
-	height: 200px;
-	margin: 1vw;
-	border-radius: 5px;
-	background: #003252;
-	justify-content: center;
-	align-items: center;
-}
-
-.post:hover {
-	box-shadow: 1px 1px 1px 1px #000;
-	background: #f1c40f;
-	color:#fff;
 }
 
 .row {
