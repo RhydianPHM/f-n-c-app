@@ -16,7 +16,7 @@ body {
 }
 
 a {
-	color: #blue;
+	color: #fff;
 	text-decoration: none;
 }
 body {
@@ -27,8 +27,7 @@ nav {
 	display: flex;
 	justify-content: flex-end;
 	align-items: flex-end;
-	background-color: #red;
-	box-shadow: 1px 1px 1px 1px #e6e6e6;
+	background-color: #fff;
 }
 nav ul {
 	display: flex;
