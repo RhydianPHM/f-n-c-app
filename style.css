@@ -91,15 +91,9 @@ nav ul li a:hover {
 
 
 .title-h {
-	font-size: 2rem;
+	font-size: 3rem;
 	font-weight: 300;
 
-}
-
-.title-h span {
-	background-color:#f1c40f;
-	padding: 1rem;
-	color: #000;
 }
 
 .section{
