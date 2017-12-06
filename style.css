@@ -32,7 +32,7 @@ nav {
 nav ul {
 	display: flex;
 	margin: 2rem;
-
+	list-style-type: none;		
 }
 
 nav ul li {
