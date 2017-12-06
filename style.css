@@ -44,10 +44,6 @@ nav ul li a {
 	color: #000;
 }
 
-nav ul li a:hover {
-	color: #ed670e;
-}
-
 .main-title {
 	flex: 1;
 	margin: 2rem;
@@ -72,10 +68,6 @@ nav ul li a:hover {
 	align-items: center;
 	margin: 1rem;
 	color: #fff;
-}
-
-.box:hover {
-	color: #f1c40f;
 }
 
 .icon {
@@ -155,9 +147,7 @@ footer {
 	justify-content: center;
 	align-items: center;
 	background: #ed670e;
-	height: 3vh;
-
-	
+	height: 3vh;	
 }
 
 @media (max-width: 600px){
