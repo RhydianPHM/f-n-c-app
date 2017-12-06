@@ -99,7 +99,7 @@ nav ul li a {
 	font-size: 1rem;
 	color: #fff;
 	margin: 1rem;
-	border-bottom: 1px solid #f1c40f;
+	border-bottom: 1px solid #fff;
 	text-transform: uppercase;
 	justify-content: center;
 	align-items: center;
@@ -125,7 +125,6 @@ nav ul li a {
 
 .row {
 	display: flex;
-
 	justify-content: center;
 }
 
@@ -133,7 +132,7 @@ nav ul li a {
 	color: #fff;
 	padding: 2vh;
 	font-family: sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 	
 }
 
@@ -148,7 +147,8 @@ footer {
 	justify-content: center;
 	align-items: center;
 	background: #ed670e;
-	height: 3vh;	
+	height: 3vh;
+	color: #fff;
 }
 
 @media (max-width: 600px){
