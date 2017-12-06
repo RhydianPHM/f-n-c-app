@@ -9,11 +9,7 @@ body {
 }
 
 
-*,
-*:before,
-*:after {
-	box-sizing: inherit;
-}
+
 
 a {
 	color: #fff;
@@ -131,13 +127,8 @@ nav ul li a {
 	color: #fff;
 	padding: 2vh;
 	font-family: sans-serif;
-	font-size: 16px;
-	
+	font-size: 16px;	
 }
-
-
-
-
 
 footer {
 	display: flex;
