@@ -1,5 +1,5 @@
 .title-h {
-	font-size: 3rem;
+	font-size: 2rem;
 	font-weight: 300;
 
 }
@@ -45,7 +45,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-	color: #f1c40f;
+	color: #ed670e;
 }
 
 .main-title {
