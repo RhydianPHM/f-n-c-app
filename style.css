@@ -35,7 +35,7 @@ nav ul li {
 
 nav ul li a {
 	text-decoration: none;
-	color: #ed670e;
+	color: #dc5d00;
 }
 
 .main-title {
@@ -43,7 +43,7 @@ nav ul li a {
 	margin: 2rem;
 	font-size: 2rem;
 	text-transform: uppercase;
-	color: #ed670e;
+	color: #dc5d00;
 }
 
 
@@ -53,7 +53,7 @@ nav ul li a {
 	flex: 1;
 	justify-content: space-around;
 	align-items: center;
-	background: #ed670e;
+	background: #dc5d00;
 }
 
 .linkIcons {
